@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    tools:context="x.miempresa.com.ejemploproyectoescuelait.MainActivity">
+
+
+   <ListView
+       android:id="@+id/listview"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content">
+
+
+   </ListView>
+
+
+   <!-- <EditText
+        android:id="@+id/editText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Usuario"
+        />
+
+    <TextView
+        android:id="@+id/tomate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hola mundo!"
+        android:textSize="25sp"
+
+        />
+
+    <Button
+        android:id="@+id/boton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Enviar Datos"
+        />
+
+    <Button
+        android:id="@+id/createToast"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TOAST"
+        />
+
+    <ImageView
+
+        android:id="@+id/imagen"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/ic_launcher"
+        />-->
+
+
+
+</LinearLayout>
