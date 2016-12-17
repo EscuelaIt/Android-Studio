@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ejemplo Sonido MediaPlayer</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="saludo">Hello</string>
+    <string name="stop">Stop</string>
+
+</resources>
